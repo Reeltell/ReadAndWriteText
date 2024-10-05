@@ -4,7 +4,7 @@ import java.nio.file.*;
 class Main {
     public static void main(String[] args) {
         String filePath = "C:\\Users\\PC\\Desktop\\Проекты\\Text.txt";
-        String outputFilePath = "vivod.svc";  // Результат
+        String outputFilePath = "C:\\Users\\PC\\Desktop\\Проекты\\vivod.svs";  // Результат
 
         try {
             // Чтение файла .txt
